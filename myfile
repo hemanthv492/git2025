@@ -1,0 +1,5 @@
+<!-- Bad -->
+<div class="pd"></div>
+
+<!-- Better -->
+<p class="project-description"></p>
